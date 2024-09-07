@@ -13,6 +13,7 @@ ul {
 }
 
 button {
+	align-items: center;
 	background: #FBCA1F;
 	font-family: inherit;
 	padding: 0.6em 1.3em;
